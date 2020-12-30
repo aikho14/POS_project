@@ -163,7 +163,7 @@ def mains():
         window=Another_Main()
         window.show()
         app.exec_() 
-        print (x)
+        
         #xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
  #updatelistbox
 
